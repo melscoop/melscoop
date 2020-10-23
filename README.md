@@ -1,18 +1,19 @@
 ### Hi there 👋
 
 <!--
-**melscoop/melscoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**melscoop/melscoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+--> 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working in the Code2Cloud squad
+- 🌱 I’m currently learning..  whatever I need to
+- 👯 I’m looking to collaborate on a contract token app, using rust
+- 💬 Ask me about whatever you'd like
+- 📫 How to reach me: DM me here, on twitter @melascoop 
+- ⚡ Fun fact: Scallops have 200 eyeballs
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+
+<!-- - RIP [Deb(Ian) Murdock](https://www.zdnet.com/article/debian-linux-founder-ian-murdock-dies-at-42-cause-unknown/) -->
 
 
