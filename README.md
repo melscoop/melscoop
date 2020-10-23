@@ -1,8 +1,10 @@
-### Hi there 👋
+### 👋 Hi there, here's a little bit about me:
 
 <!--
 **melscoop/melscoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 --> 
+
+
 
 - 🔭 I’m currently working in the Code2Cloud squad
 - 🌱 I’m currently learning..  whatever I need to
