@@ -6,14 +6,11 @@
 
 
 
-- 🔭 I’m currently working in the Code2Cloud squad
-- 🌱 I’m currently learning..  whatever I need to
-- 👯 I’m looking to collaborate on a contract token app, using rust
-- 💬 Ask me about whatever you'd like
+- 🔭 I’m currently working in the Code2Cloud team helping others use Actions and Packages
+- 👯 I’m looking to collaborate on token project using rust 
+- 💬 Ask me about ... anything reasonable 
 - 📫 How to reach me: DM me here, on twitter @melascoop 
 - ⚡ Fun fact: Scallops have 200 eyeballs
-
---- 
 
 
 <!-- - RIP [Deb(Ian) Murdock](https://www.zdnet.com/article/debian-linux-founder-ian-murdock-dies-at-42-cause-unknown/) -->
