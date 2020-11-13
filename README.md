@@ -9,7 +9,7 @@
 - 🔭 I’m currently working in the Code2Cloud team helping others use Actions and Packages
 - 👯 I’m looking to collaborate on token project using rust 
 - 💬 Ask me about ... anything reasonable 
-- 📫 How to reach me: DM me here, on twitter @melascoop 
+- 📫 How to reach me: here, twitter @melstewcoop, intsta @melascoop
 - ⚡ Fun fact: Scallops have 200 eyeballs
 
 
