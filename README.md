@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in the Code2Cloud team helping others use Actions and Packages
 - 👯 I’m looking to collaborate on a collectible token project
-- 💬 Ask me about ... anything reasonable 
+- 💬 Ask me about ... anything crypto 
 - 📫 How to reach me: here, twitter @melstewcoop, intsta @melascoop
 - ⚡ Fun fact: Debian was named using a combo of it's creator's name (Ian) and his wife's name (Debbie) 
 
