@@ -14,4 +14,4 @@ https://skyline.github.com/melscoop/2020
 <!-- - RIP [Deb(Ian) Murdock](https://www.zdnet.com/article/debian-linux-founder-ian-murdock-dies-at-42-cause-unknown/) -->
 
 
-![melscoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=melscoop&show_icons=true&theme=radical)
+![melscoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=melscoop&show_icons=true)
