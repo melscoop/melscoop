@@ -9,7 +9,7 @@
 My 3-D Printable skyline using stats: https://skyline.github.com/melscoop/2022
 
 - 🔭 I’m currently working in the Code2Cloud team helping others use Actions, Packages and CodeQL
-- 💬 Ask me about anything GitHub, Linux, cat, crypto or Fortnite related 
+- 💬 Ask me about anything GitHub related 
 - 📫 How to reach me: here
 - ⚡ Fun fact: Debian was named using a combo of it's creator's name (Ian) and his wife's name (Debbie) 
 
