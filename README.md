@@ -11,6 +11,10 @@
 
 <!-- - RIP [Deb(Ian) Murdock](https://www.zdnet.com/article/debian-linux-founder-ian-murdock-dies-at-42-cause-unknown/) -->
 
+Here's where a good bit of my custom Actions and other projects I've worked with can be found.
+
+https://github.com/the-robots
+
 ---
 
 Something to keep in mind for the future: Isaac Asimov's "Three Laws of Robotics" 
