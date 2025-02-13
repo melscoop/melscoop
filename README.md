@@ -5,7 +5,7 @@
 --> 
 
 - 🔭 Currently working as a Customer Reliability Engineer 🤘
-- :books: Certified in GitHub Administration, Actions and Advanced Security - [Credly link](https://www.credly.com/users/melanie-cooper.d2d9baa3)
+- :books: Certified in GitHub Administration, Actions, Advanced Security - [Credly link](https://www.credly.com/users/melanie-cooper.d2d9baa3) & Azure AZ900
 - 📫 How to reach me: here
 - ⚡ Fun fact: Debian was named using a combo of it's creator's name (Ian) and his wife's name (Debbie) 
 
