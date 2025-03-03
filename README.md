@@ -1,4 +1,4 @@
-### 👋 Hi there, here's a little bit about me:
+### 👋 Welcome to my GitHub profile, here's a little bit about me:
 
 <!--
 **melscoop/melscoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -7,8 +7,7 @@
 - 🔭 Currently working as a Customer Reliability Engineer 🤘
 - :books: Certified in GitHub Administration, Actions, Advanced Security - [Credly link](https://www.credly.com/users/melanie-cooper.d2d9baa3) & Azure AZ900
 - 📫 How to reach me: here
-- ⚡ Fun fact: Debian was named using a combo of it's creator's name (Ian) and his wife's name (Debbie) 
-
+- 
 <!-- - RIP [Deb(Ian) Murdock](https://www.zdnet.com/article/debian-linux-founder-ian-murdock-dies-at-42-cause-unknown/) -->
 
 Here's where a good bit of my custom Actions and other projects I've worked with can be found.
