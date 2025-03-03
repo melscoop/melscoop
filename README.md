@@ -6,8 +6,8 @@
 
 - 🔭 Currently working as a Customer Reliability Engineer 🤘
 - :books: Certified in GitHub Administration, Actions, Advanced Security - [Credly link](https://www.credly.com/users/melanie-cooper.d2d9baa3) & Azure AZ900
-- 📫 How to reach me: here
-- 
+- 📫 How to reach me: here or `<my-handle>@github.com`
+
 <!-- - RIP [Deb(Ian) Murdock](https://www.zdnet.com/article/debian-linux-founder-ian-murdock-dies-at-42-cause-unknown/) -->
 
 Here's where a good bit of my custom Actions and other projects I've worked with can be found.
