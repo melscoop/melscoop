@@ -4,7 +4,6 @@
 **melscoop/melscoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 --> 
 
-- 🔭 Currently working as a Customer Reliability Engineer 🤘
 - :books: Certified in GitHub Administration, Actions, Advanced Security - [Credly link](https://www.credly.com/users/melanie-cooper.d2d9baa3) & Azure AZ900
 - 📫 How to reach me: here or `<my-handle>@github.com`
 
