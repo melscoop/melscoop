@@ -20,7 +20,4 @@ Something to keep in mind for the future: Isaac Asimov's "Three Laws of Robotics
 - A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
 - A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
 
-![melscoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=melscoop&show_icons=true)
-
-
 never forget ... :fishsticks: :fishsticks: :fishsticks: :fishsticks: :fishsticks:
