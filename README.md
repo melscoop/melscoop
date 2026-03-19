@@ -1,4 +1,4 @@
-### 👋 Greetings, since you're already here! Here's a little bit about me:
+### 👋 Greetings! Here's a little bit about me:
 
 <!--
 **melscoop/melscoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
