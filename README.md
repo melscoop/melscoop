@@ -67,7 +67,16 @@ gitGraph
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,azure,githubactions,git" alt="skill icons" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,bash,python,docker,kubernetes,terraform,azure,gcp,githubactions,git" alt="skill icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NetApp-0067C5?style=for-the-badge&logo=netapp&logoColor=white" alt="NetApp" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Dell_EMC-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell EMC" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Advanced_Security-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Advanced Security" />
+  <img src="https://img.shields.io/badge/SAN%2FNAS_Storage-FF6F00?style=for-the-badge&logo=harddrive&logoColor=white" alt="SAN/NAS Storage" />
 </p>
 
 ---
